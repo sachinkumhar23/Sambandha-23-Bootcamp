@@ -1,3 +1,3 @@
 # Sambandha-23-Bootcamp
 
-* Fork this Reposoitory and Upload The Assignment in Assignments/Assignment_1 folder
+* Fork this Reposoitory and Upload Your Assignment in Assignments/Assignment_1 folder
